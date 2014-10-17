@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[maf:home|Door43 (maf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-maf|d43-maf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-maf/archive/master.zip|d43-maf.zip]]
+
+**Recent Changes**
+{{changes>ns = maf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/maf|Ethnologue data]]
+
